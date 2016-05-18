@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mattl/Documents/Visual Studio 2015/Projects/Square Jumper/Square Jumper/Content/background.png</File>
+    <File>C:/Users/mattl/Documents/Visual Studio 2015/Projects/Square Jumper/Square Jumper/Content/brick.png</File>
+    <File>C:/Users/mattl/Documents/Visual Studio 2015/Projects/Square Jumper/Square Jumper/Content/groundtile.png</File>
+    <File>C:/Users/mattl/Documents/Visual Studio 2015/Projects/Square Jumper/Square Jumper/Content/../../../../../../Desktop/Game Assets/player.png</File>
+    <File>C:/Users/mattl/Documents/Visual Studio 2015/Projects/Square Jumper/Square Jumper/Content/player.png</File>
+    <File>C:/Users/mattl/Documents/Visual Studio 2015/Projects/Square Jumper/Square Jumper/Content/hitler.png</File>
+    <File>C:/Users/mattl/Documents/Visual Studio 2015/Projects/Square Jumper/Square Jumper/Content/playersheet.png</File>
+  </SourceFiles>
+</SourceFileCollection>
