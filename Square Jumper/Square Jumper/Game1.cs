@@ -17,7 +17,7 @@ namespace Square_Jumper
         Vector2 groundPlacement;
 
         public Vector2 spritePosition;
-        
+       //comment for jason 
         
 
         public Game1()

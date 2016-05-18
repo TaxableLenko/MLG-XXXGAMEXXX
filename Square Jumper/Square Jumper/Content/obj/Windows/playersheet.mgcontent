@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/mattl/Documents/Visual Studio 2015/Projects/Square Jumper/Square Jumper/Content/playersheet.png</SourceFile>
+  <SourceFile>C:/Users/mattl/Documents/GitHub/MLG-XXXGAMEXXX/Square Jumper/Square Jumper/Content/playersheet.png</SourceFile>
   <SourceTime>2016-05-17T11:57:12.0446023-04:00</SourceTime>
-  <DestFile>C:/Users/mattl/Documents/Visual Studio 2015/Projects/Square Jumper/Square Jumper/Content/bin/Windows/playersheet.xnb</DestFile>
-  <DestTime>2016-05-17T11:57:44.0454494-04:00</DestTime>
+  <DestFile>C:/Users/mattl/Documents/GitHub/MLG-XXXGAMEXXX/Square Jumper/Square Jumper/Content/bin/Windows/playersheet.xnb</DestFile>
+  <DestTime>2016-05-18T11:18:57.7214371-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -29,3 +29,34 @@ c:\users\mattl\documents\visual studio 2015\Projects\Square Jumper\Square Jumper
 c:\users\mattl\documents\visual studio 2015\Projects\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Content\player.xnb
 C:\Users\mattl\Documents\Visual Studio 2015\Projects\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Content\hitler.xnb
 C:\Users\mattl\Documents\Visual Studio 2015\Projects\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Content\playersheet.xnb
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\obj\x86\Debug\Square Jumper.exe
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\obj\x86\Debug\Square Jumper.pdb
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Content\brick.xnb
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Content\groundtile.xnb
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Content\hitler.xnb
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Content\playersheet.xnb
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Square Jumper.exe
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\Square Jumper.pdb
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\mattl\Documents\GitHub\MLG-XXXGAMEXXX\Square Jumper\Square Jumper\obj\x86\Debug\Square Jumper.csprojResolveAssemblyReference.cache
